@@ -1,2 +1,2 @@
 # automated-labs
-I do labs in school and automate them
+I do labs in school and automate them.
